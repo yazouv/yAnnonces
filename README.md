@@ -1,8 +1,6 @@
 # yAnnonces
 Système de notifications récurentes / Full Configurable
 
-#### Discord : https://discord.gg/5dev
-
 - Configuration hyper facile
 - Types d'annonces configurables
 ## Screenshots
