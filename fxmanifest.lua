@@ -11,3 +11,5 @@ server_scripts {
     'srv.lua',
     'config.lua'
 }
+
+shared_script '@es_extended/imports.lua'
